@@ -9,7 +9,6 @@ We explore several models, including Logistic Regression, XGBoost, Siamese LSTM,
 ## **Directory Structure**
 
 - `data/`: Contains the Quora question pairs dataset (train.csv.zip).
-- `models/`: Directory where the trained model weights will be saved.
 - `notebooks/`: Jupyter notebooks for data exploration, model training, and evaluation.
 - `README.md`: Project overview, instructions, and dependencies (this file).
 
